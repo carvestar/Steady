@@ -15,7 +15,7 @@ public class StringExample {
 		System.out.println(str);
 		
 		System.out.print("나는\n");
-		System.out.print("자바를\n");
+		System.out.print("자바르을\n");
 		System.out.print("배웁니다.\n");
 	}
 
