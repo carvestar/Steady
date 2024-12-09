@@ -8,7 +8,7 @@ public class StringConcatExample {
 		System.out.println("result1: " + result1);
 		
 		//결합 연산
-		String result2 = 10 + 2 + "81";
+		String result2 = 10 + 2 + "8";
 		System.out.println("result2: " + result2);
 		
 		String result3 = 10 + "2" + 8;
