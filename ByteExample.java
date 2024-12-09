@@ -9,7 +9,7 @@ public class ByteExample {
 		byte var4 = 30;
 		byte var5 = 127;
 		int var6 = 128;
-		//byte 타임의 범위는 -128 ~ 127까지라서 128의 값을 넣을 수 없다. int나 short 같은 더 큰 데이터 타입을 이용해야 한다.
+		//byte 타임의 범위는 -128 ~ 127까지라서 128의 값을 넣을 수 없다. int나 short 같은 더 큰 데이터 타입을 이용해야 한다.111111111
 		
 		System.out.println(var1);
 		System.out.println(var2);
